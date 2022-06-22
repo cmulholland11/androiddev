@@ -1,0 +1,1 @@
+this folder has the files which pertain to data stored within the app
